@@ -63,3 +63,8 @@
       * [7. Semaphore](low-level-design/yt-tutorial-learning/concurrency-in-java/7.-semaphore.md)
       * [8. Java Concurrent Collections](low-level-design/yt-tutorial-learning/concurrency-in-java/8.-java-concurrent-collections.md)
       * [9. Future and CompletableFuture](low-level-design/yt-tutorial-learning/concurrency-in-java/9.-future-and-completablefuture.md)
+    * [Interview Problems](low-level-design/yt-tutorial-learning/interview-problems/README.md)
+      * [1. Design Tic Tac Toe](low-level-design/yt-tutorial-learning/interview-problems/1.-design-tic-tac-toe.md)
+      * [2. Design Chess Game](low-level-design/yt-tutorial-learning/interview-problems/2.-design-chess-game.md)
+      * [3. Design Snake Food Game](low-level-design/yt-tutorial-learning/interview-problems/3.-design-snake-food-game.md)
+      * [4. Design a Parking Lot](low-level-design/yt-tutorial-learning/interview-problems/4.-design-a-parking-lot.md)
